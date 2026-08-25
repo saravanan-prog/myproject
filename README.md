@@ -1,2 +1,0 @@
-# myproject
-Testing studying purpose
